@@ -1,7 +1,7 @@
 # This File will contain the information to be displayed in your portfolio
 
 # CHANGE BELOW
-profile_picture = "images/profile.jpeg"
+profile_picture = "images/profile.png"
 about_me = "I'm Salvador Ibarguren. Student of Computer Science who loves playing with code and tech!"
 
 
