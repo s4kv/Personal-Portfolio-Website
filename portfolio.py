@@ -8,7 +8,7 @@ def about_me_section():
     st.header("About Me")
     try:
         st.image(info.profile_picture, width=200)
-    except: 
+    except:
         pass
     st.write(info.about_me)
     st.write("---")
