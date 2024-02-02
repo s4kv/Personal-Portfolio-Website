@@ -88,7 +88,7 @@ spoken_icons = {"French": "🇫🇷", "English": "🇬🇧", "Spanish": "🇪"}
 # CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
-    "French": "Intermediate Level",
+    "French": "Elementary Level",
     "Spanish": "Fluent",
 }
 leadership_data = {
