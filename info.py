@@ -70,13 +70,6 @@ experience_data = {
         ],
         "Images/robonav.png",
     ),
-    "GreyHat": (
-        [
-            "- Member of the GreyHat club of in Georiga Institute of Technology.",
-            "- Participated in the CTF competition.",
-        ],
-        "Images/greyhat.png",
-    ),
 }
 
 projects_data = {
@@ -112,6 +105,13 @@ leadership_data = {
             "- Presented talks and educational workshops organized by us and the Municipality of Lima.",
         ],
         "Images/yaku.png",
+    ),
+    "GreyHat": (
+        [
+            "- Member of the GreyHat club of in Georiga Institute of Technology.",
+            "- Participated in the CTF competition.",
+        ],
+        "Images/greyhat.png",
     ),
 }
 activity_data = {
