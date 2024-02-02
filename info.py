@@ -24,19 +24,19 @@ education_data = {
     "GPA": "4.0",
 }
 course_data = {
-    "code": ["CS 1301", "APPH 1040", "MATH 1551", "HIST 2112"],
+    "code": ["CS 1301", "CS 1331", "MATH 1552", "PHYS 2211"],
     "names": [
         "Intro to CS",
-        "Scientific Foundations of Health",
-        "Differential Calculus",
-        "The United States since 1877",
+        "Intro to Object-Oriented Programming",
+        "Integral Calculus",
+        "Physics I",
     ],
-    "semester_taken": ["1st", "1st", "1st", "1st"],
+    "semester_taken": ["1st", "2nd", "2nd", "2nd"],
     "skills": [
         "Baby steps with Python!",
-        "Let's get healthy",
-        "The start of the Cacl journey",
-        "We learn about history!",
+        "Java and object-oriented programming!",
+        "Integrals are fun!",
+        "I love physics!",
     ],
 }
 experience_data = {
@@ -58,9 +58,24 @@ experience_data = {
     ),
     "RoboWrestling": (
         [
-            "- Member of the RoboWrestling club of RoboJackets in Georiga Institute of Technology."
+            "- Member of the RoboWrestling club of RoboJackets in Georiga Institute of Technology.",
+            "- Aided with the development of the movent control of a robot for the Robo-Sumo competition.",
         ],
         "Images/robor.png",
+    ),
+    "RoboNav": (
+        [
+            "- Member of the RoboNav club of RoboJackets in Georiga Institute of Technology.",
+            "- Aided with the development of movement algorithms a Mars Rover",
+        ],
+        "Images/robonav.png",
+    ),
+    "GreyHat": (
+        [
+            "- Member of the GreyHat club of in Georiga Institute of Technology.",
+            "- Participated in the CTF competition.",
+        ],
+        "Images/greyhat.png",
     ),
 }
 
