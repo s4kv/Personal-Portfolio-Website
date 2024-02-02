@@ -1,7 +1,7 @@
 # This File will contain the information to be displayed in your portfolio
 
 # CHANGE BELOW
-profile_picture = "images/profile.png"
+profile_picture = "Images/profile.png"
 about_me = "I'm Salvador Ibarguren. Student of Computer Science who loves playing with code and tech!"
 
 
@@ -46,7 +46,7 @@ experience_data = {
             "- Taught 31 students programming to produce their own video games using the platform Scratch.",
             "- Designed and prepared a class chronogram and materials for a full year of the class.",
         ],
-        "images/teacher.jpg",
+        "Images/teacher.jpg",
     ),
     "MIT’A": (
         [
@@ -54,13 +54,13 @@ experience_data = {
             "- Implementation of a real-time database with information from the Geophysical Institute of Peru using JavaScript and Python for web scrapping.",
             "- Responsible for the maintenance and development of the website.",
         ],
-        "images/seismo.jpg",
+        "Images/seismo.jpg",
     ),
     "RoboWrestling": (
         [
             "- Member of the RoboWrestling club of RoboJackets in Georiga Institute of Technology."
         ],
-        "images/robor.png",
+        "Images/robor.png",
     ),
 }
 
@@ -89,14 +89,14 @@ leadership_data = {
             "- Aided and empowered 150 families and ensured more than 450 daily food rations by building safe cooking structures, giving educational talks, and sharing informative content.",
             "- Designed and implemented eco-sustainable wood stoves to support low-income communities",
         ],
-        "images/pukuro.png",
+        "Images/pukuro.png",
     ),
     "Yaku NGO | Co-Founder": (
         [
             "- Designed and built a highly efficient water condenser and filter that uses fog nets and the Peltier effect for Peruvian communities with no easy access to water.",
             "- Presented talks and educational workshops organized by us and the Municipality of Lima.",
         ],
-        "images/yaku.png",
+        "Images/yaku.png",
     ),
 }
 activity_data = {
