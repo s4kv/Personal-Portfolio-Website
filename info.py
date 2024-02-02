@@ -2,7 +2,7 @@
 
 # CHANGE BELOW
 profile_picture = "Images/profile.png"
-about_me = "I'm Salvador Ibarguren. Student of Computer Science who loves playing with code and tech!"
+about_me = "I'm Salvador Ibarguren. Student of Computer Science who loves playing with code and tech! 🧑‍💻🌐"
 
 
 # CHANGE BELOW (OPTIONAL)
