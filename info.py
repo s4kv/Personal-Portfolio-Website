@@ -56,6 +56,27 @@ experience_data = {
         ],
         "Images/seismo.jpg",
     ),
+    "RoboWrestling": (
+        [
+            "- Member of the RoboWrestling club of RoboJackets in Georiga Institute of Technology.",
+            "- Aided with the development of the movent control of a robot for the Robo-Sumo competition.",
+        ],
+        "Images/robor.png",
+    ),
+    "RoboNav": (
+        [
+            "- Member of the RoboNav club of RoboJackets in Georiga Institute of Technology.",
+            "- Aided with the development of movement algorithms a Mars Rover",
+        ],
+        "Images/robonav.png",
+    ),
+    "GreyHat": (
+        [
+            "- Member of the GreyHat club of in Georiga Institute of Technology.",
+            "- Participated in the CTF competition.",
+        ],
+        "Images/greyhat.png",
+    ),
 }
 
 projects_data = {
@@ -91,27 +112,6 @@ leadership_data = {
             "- Presented talks and educational workshops organized by us and the Municipality of Lima.",
         ],
         "Images/yaku.png",
-    ),
-    "RoboWrestling": (
-        [
-            "- Member of the RoboWrestling club of RoboJackets in Georiga Institute of Technology.",
-            "- Aided with the development of the movent control of a robot for the Robo-Sumo competition.",
-        ],
-        "Images/robor.png",
-    ),
-    "RoboNav": (
-        [
-            "- Member of the RoboNav club of RoboJackets in Georiga Institute of Technology.",
-            "- Aided with the development of movement algorithms a Mars Rover",
-        ],
-        "Images/robonav.png",
-    ),
-    "GreyHat": (
-        [
-            "- Member of the GreyHat club of in Georiga Institute of Technology.",
-            "- Participated in the CTF competition.",
-        ],
-        "Images/greyhat.png",
     ),
 }
 activity_data = {
