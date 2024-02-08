@@ -108,7 +108,7 @@ leadership_data = {
     ),
     "GreyHat | Member": (  # GreyHat is a club in Georgia Tech
         [
-            "- Member of the GreyHat club of in Georiga Institute of Technology.",
+            "- Member of the GreyHat club of in Georgia Institute of Technology.",
             "- Participated in the CTF competition.",
         ],
         "Images/greyhat.png",
