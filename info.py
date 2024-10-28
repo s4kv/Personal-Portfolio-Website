@@ -24,26 +24,36 @@ education_data = {
     "GPA": "4.0",
 }
 course_data = {
-    "code": ["CS 1301", "CS 1331", "MATH 1552", "PHYS 2211"],
+    "code": ["CS 1332", "CS 1331", "MATH 1554", "CS 2050"],
     "names": [
-        "Intro to CS",
+        "Data Structures and Algorithms",
         "Intro to Object-Oriented Programming",
-        "Integral Calculus",
-        "Physics I",
+        "Linear Algebra",
+        "Discrete Math for Computer Science",
     ],
-    "semester_taken": ["1st", "2nd", "2nd", "2nd"],
+    "semester_taken": ["3st", "2nd", "3nd", "3nd"],
     "skills": [
-        "Baby steps with Python!",
+        "Cool data structures and algorithms!",
         "Java and object-oriented programming!",
-        "Integrals are fun!",
-        "I love physics!",
+        "Vectors, matrices, and linear transformations!",
+        "Logic, proofs, sets, and functions!",
     ],
 }
 experience_data = {
+    "Natura Economic Valuation | Software Engineering Internship": (
+        [
+            "- Spearheaded the development of an AI-powered platform that automated the extraction, analysis, and interpretation of environmental data, reducing manual processing by 90% and accelerating data analysis by 85%.",
+            "- Engineered an advanced AI chatbot that delivered real-time data insights and generated custom tables directly from cloud databases, enhancing decision-making efficiency by 70%.",
+            "- Designed and deployed a custom solution using Python, Google Cloud, and Vertex AI, automating data workflows and achieving 99% data accuracy in environmental impact assessments.",
+            "- Automated the integration of PDF-sourced environmental data into cloud databases, reducing manual data entry time by 70% and doubling data processing capacity.",
+            "- Led the full software development lifecycle, including Google Cloud resource configuration, AI model deployment, and full-stack development, delivering a fully automated, scalable solution for environmental analysis.",
+        ],
+        "Images/natura_ecova.png",
+    ),
     "Computer Science Teacher": (
         [
-            "- Voluntary teacher at San Pedro School of 5th and 6th year students.",
-            "- Taught 31 students programming to produce their own video games using the platform Scratch.",
+            "- Developed and taught a comprehensive curriculum for a year-long workshop on programming fundamentals, fostering critical thinking and problem-solving skills, increasing student engagement by 60%.",
+            "- Educated 31 high school students on Scratch to develop interactive video games using computational thinking.",
             "- Designed and prepared a class chronogram and materials for a full year of the class.",
         ],
         "Images/teacher.jpg",
@@ -73,13 +83,15 @@ experience_data = {
 }
 
 projects_data = {
+    "Arch Linux | Linux Distribution": "Designed and automated a full Arch Linux setup with bspwm, systemd, and custom dotfiles, optimizing system performance and visuals with powertop, auto cpu-freq, neovim and picom.",
     "Surveillance Camera | Visual Recognition": "Developed a movement-responsive camera using python, Haar Cascades and artificial intelligence.",
     "Automated Zoom Scheduler | Macro Automatization": "Developed a bash and python macro that auto-joins a list of Zoom Meetings on a time and date.",
     "WhatsApp Bot | Bot Automatization": "Developed a WhatsApp bot that sends pre-written messages at specific times.",
     "Nobel Finder | Web Scrapping & Web Application": "Developed a web scrapper and web application that finds information about Nobel Prize Winners.",
+    "Eco-Sustainable Wood Stove | Engineering": "Designed and implemented eco-sustainable wood stoves to support low-income communities.",
 }
 
-programming_data = {"Python": 90, "Java": 65, "C++": 30, "Rust": 40}
+programming_data = {"Python": 100, "Java": 100, "C++": 40, "Rust": 60}
 
 # CHANGE BELOW (OPTIONAL)
 programming_icons = {"Python": "🐍", "Java": "☕", "C++": "🔍", "Rust": "🦀"}
