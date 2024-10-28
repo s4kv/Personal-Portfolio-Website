@@ -27,16 +27,16 @@ course_data = {
     "code": ["CS 1332", "CS 1331", "MATH 1554", "CS 2050"],
     "names": [
         "Data Structures and Algorithms",
-        "Intro to Object-Oriented Programming",
         "Linear Algebra",
         "Discrete Math for Computer Science",
+        "Intro to Object-Oriented Programming",
     ],
-    "semester_taken": ["3st", "2nd", "3nd", "3nd"],
+    "semester_taken": ["3st", "3rd", "3rd", "2nd"],
     "skills": [
         "Cool data structures and algorithms!",
-        "Java and object-oriented programming!",
         "Vectors, matrices, and linear transformations!",
         "Logic, proofs, sets, and functions!",
+        "Java and object-oriented programming!",
     ],
 }
 experience_data = {
@@ -91,10 +91,28 @@ projects_data = {
     "Eco-Sustainable Wood Stove | Engineering": "Designed and implemented eco-sustainable wood stoves to support low-income communities.",
 }
 
-programming_data = {"Python": 100, "Java": 100, "C++": 40, "Rust": 60}
+programming_data = {
+    "Python ": 100,
+    "Java ": 100,
+    "C++ ": 60,
+    "Rust ": 90,
+    "JavaScript ": 80,
+    "HTML/CSS ": 90,
+    "SQL ": 100,
+    "Bash ": 90,
+}
 
 # CHANGE BELOW (OPTIONAL)
-programming_icons = {"Python": "🐍", "Java": "☕", "C++": "🔍", "Rust": "🦀"}
+programming_icons = {
+    "Python ": "🐍",
+    "Java ": "☕",
+    "C++ ": "🔍",
+    "Rust ": "🦀",
+    "JavaScript ": "🌐",
+    "HTML/CSS ": "🎨",
+    "SQL ": "💽",
+    "Bash ": "🐚",
+}
 spoken_icons = {"French": "🇫🇷", "English": "🇬🇧", "Spanish": "🇪"}
 
 # CHANGE BELOW
