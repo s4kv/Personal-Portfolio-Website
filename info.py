@@ -24,7 +24,7 @@ education_data = {
     "GPA": "4.0",
 }
 course_data = {
-    "code": ["CS 1332", "CS 1331", "MATH 1554", "CS 2050"],
+    "code": ["CS 1332", "MATH 1554", "CS 2050", "CS 1332"],
     "names": [
         "Data Structures and Algorithms",
         "Linear Algebra",
